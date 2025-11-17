@@ -100,7 +100,7 @@ flutter doctor
 > \*\*Clone the repository:
 
 ```
-git clone https://github.com/terror-akshat/InkCraft.git
+git clone https://github.com/fusionAMAN/FlowNotes.git
 cd InkCraft
 ```
 
